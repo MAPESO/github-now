@@ -1,0 +1,13 @@
+{
+  "name": "github-now",
+  "version": "1.0.0",
+  "description": "Now▲ + GitHub ",
+  "main": "index.js",
+  "repository": "git@github.com:MAPESO/github-now.git",
+  "author": "Mark Pena <markdrew53@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node ."
+  }
+}
